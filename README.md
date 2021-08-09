@@ -31,6 +31,7 @@ Right now, running the program only shows testing for each data structure. This 
 ### Installing and Executing
 
 * Download the source code from github, or clone the repository into Visual Studio
+* Change directory to `<path/to/projectFolder/src>`
 * Compile code how you like, or, run the command `make`
 * After running `make`', execute by running the command `run` or `run.exe`
 
